@@ -44,3 +44,5 @@ print(f"{name} your BMI is {bmi}")
 7. Sample test file is given below
 ```
 
+<img src="https://github.com/Yaswant-Kumar-Singhi/python-tkinter-BMI-GUI/blob/main/BMI_Sample_run_image.PNG">
+
