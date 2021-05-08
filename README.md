@@ -30,5 +30,7 @@ bmi = weight / ht_cal
 
 print(f"{name} your BMI is {bmi}")
 
-
 ```
+> GUI for BMI Calculator
+<img src="https://github.com/Yaswant-Kumar-Singhi/python-tkinter-BMI-GUI/blob/main/BMI%20Calculator.PNG">
+
