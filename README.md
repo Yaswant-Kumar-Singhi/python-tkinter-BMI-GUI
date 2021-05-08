@@ -9,3 +9,11 @@
 4. Print BMI
 
 ```
+
+>Understand how BMI Calculator works
+
+```
+STEP 1 : Goto bmi.py to get the python script for calculating BMI for an individual.
+STEP 2: 
+
+```
