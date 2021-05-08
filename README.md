@@ -46,3 +46,7 @@ print(f"{name} your BMI is {bmi}")
 
 <img src="https://github.com/Yaswant-Kumar-Singhi/python-tkinter-BMI-GUI/blob/main/BMI_Sample_run_image.PNG">
 
+>Download main.exe to check my BMI Calculator 
+><img src="https://github.com/Yaswant-Kumar-Singhi/python-tkinter-BMI-GUI/blob/main/main_exe_sample_run_image.PNG">
+
+
