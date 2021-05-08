@@ -34,3 +34,13 @@ print(f"{name} your BMI is {bmi}")
 > GUI for BMI Calculator
 <img src="https://github.com/Yaswant-Kumar-Singhi/python-tkinter-BMI-GUI/blob/main/BMI%20Calculator.PNG">
 
+```
+1. This GUI is divided into grid system of ros of columns 
+2. No of rows = 3 {0,1,2}
+3. No of Columns = 2 {0,1}
+4. padding of 5units is also done in every cell
+5. In total there are 6 cells
+6. BMI will be rounded upto 3 decimal points
+7. Sample test file is given below
+```
+
